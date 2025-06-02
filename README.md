@@ -58,7 +58,9 @@
 
 如果你觉得对你有帮助，请作者喝杯咖啡吧，谢谢！
 usdt tron(trc20)
-![usdt_副本](https://github.com/user-attachments/assets/640d679e-e887-4d16-a6ff-9864794f78a9)
+![usdt](https://github.com/user-attachments/assets/686834b6-52b8-4c94-b35b-480c5bb92c0c)
+
 eth ethereum
-![eth_副本](https://github.com/user-attachments/assets/2f7c742a-356a-487e-8f0d-63c5b17621b5)
+![eth](https://github.com/user-attachments/assets/36e9bf29-fb98-4235-bcfd-9ef242494ebd)
+
 
