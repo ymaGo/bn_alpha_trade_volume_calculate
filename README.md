@@ -1,0 +1,2 @@
+# bn_alpha_trade_volume_calculate
+统计币安钱包alpha每日交易量
